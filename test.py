@@ -4,5 +4,5 @@ def age_limit
     if age<18:
         print("You are not a adult")
     else:
-        print("You are an adult.")
+        print("You are not an adult.")
         
